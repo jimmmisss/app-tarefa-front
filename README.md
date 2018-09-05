@@ -1,6 +1,6 @@
-# legalizzr
+# tasks
 
-> Gestão de Pequenas Empresas
+> app de tasks feito em vue, nuxt e vuetify
 
 ## Build Setup
 

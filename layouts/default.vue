@@ -12,7 +12,7 @@
     
     <v-footer class="pa-3">
     <v-spacer></v-spacer>
-    <div>&copy; {{ new Date().getFullYear() }} - Supero Tasks</div>
+    <div>&copy; {{ new Date().getFullYear() }} - Supero Tasks...</div>
   </v-footer>
   </v-app>
 </template>
